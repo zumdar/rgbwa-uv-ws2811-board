@@ -16,3 +16,12 @@ Rev. A:
 - hole in middle of LED for heatsink
 
 ## REV. A renders
+front:
+![alt text](dome_rgbwauv_pcb/dome_rgbwauv_pcb_3d_front.png)
+
+back:
+![alt text](dome_rgbwauv_pcb/dome_rgbwauv_pcb_3d_back.png)
+
+[Rev A Layout PDF](dome_rgbwauv_pcb/dome_rgbwauv_pcb_LAYOUT.pdf)
+## Schematic 
+[Schematic](dome_rgbwauv_pcb/dome_rgbwauv_Schematic.pdf)
