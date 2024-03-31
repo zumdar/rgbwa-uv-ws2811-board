@@ -1,0 +1,19 @@
+Comment,Designator,Footprint,LCSC
+0.1 uf,"C1,C2",C_0603_1608Metric,C14663
+AO3400A,"Q1,Q2,Q3,Q4,Q5,Q6",SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR,C20917
+1k,"R11,R12,R13,R5,R7,R9",R_0603_1608Metric,C21190
+100,"R2,R4",R_0603_1608Metric,C22775
+33,"R1,R3",R_0603_1608Metric,C23140
+10k,"R10,R14,R15,R16,R6,R8",R_0603_1608Metric,C25804
+WS2811,"IC1,IC2",SO08-SKINNYPADS,C2920043
+RGBAW+UV,U1,RGBWA+UV,
+Board_to_dome,H2,MountingHole_2.2mm_M2,
+Board_to_dome,H1,MountingHole_2.2mm_M2,
+3PinJSTOutput,J2,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+3PinJSTInput,J1,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,
+Jumper,JP1,PinHeader_1x03_P2.54mm_Vertical,
+Jumper,JP2,PinHeader_1x03_P2.54mm_Vertical,
+Jumper,JP5,PinHeader_1x03_P2.54mm_Vertical,
+Jumper,JP3,PinHeader_1x03_P2.54mm_Vertical,
+Jumper,JP4,PinHeader_1x03_P2.54mm_Vertical,
+Jumper,JP6,PinHeader_1x03_P2.54mm_Vertical,
