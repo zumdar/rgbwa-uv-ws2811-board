@@ -15,6 +15,9 @@ Rev. A:
 - 4 other holes to mount standoffs so you can mount this on a substrate?
 - hole in middle of LED for heatsink
 
+# similar projects
+Neopixel XL - https://github.com/palsayantan/Neopixel-XL
+
 ## REV. A renders
 front:
 ![alt text](dome_rgbwauv_pcb/dome_rgbwauv_pcb_3d_front.png)
